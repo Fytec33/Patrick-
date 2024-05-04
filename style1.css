@@ -1,0 +1,23 @@
+
+.present{
+  font-size: 9px;
+  text-align: justify;
+  display: flex;
+  align-items:center;
+  top:33%;
+  left: 50px;
+  bottom:20%;
+  position: absolute;
+  font-family: Serif;
+}
+.pat{
+  display: flex;
+  font-size: 15px;
+  align-items:center;
+  top:40%;
+  left: 50px;
+  bottom:1%;
+  position: absolute;
+  font-family: Courier New;
+  
+}

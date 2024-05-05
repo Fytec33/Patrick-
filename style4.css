@@ -1,0 +1,61 @@
+/* style4.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.tyr {
+  
+  padding: 20px;
+  text-align: center;
+  background: transparent;
+  color: white; /* Add this line */
+}
+
+
+h1 {
+  color: white;
+  font-family: Fantasy;
+  font-size: 20px;
+}
+
+section {
+  margin-top: 50px;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: #FFFF33;
+}
+
+input[type="text"] {
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: greenyellow;
+  color: white;
+  border: none;
+  cursor: pointer;
+  background:;
+  font-size: 15px;
+}
+
+button:hover {
+  background-color: #45a049;
+  background: transparent;
+}
+
+#error-message {
+  color: red;
+}

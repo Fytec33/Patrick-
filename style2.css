@@ -7,9 +7,7 @@
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
-.dt {
 
-}
 
 section {
   position: relative;
@@ -21,13 +19,16 @@ section {
   justify-content: center;
   align-items: center;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 100px;
+  font-size: 30px;
 }
 
 section a {
   color: #fff;
   font-size: 2em; /* Adjust as needed */
   text-transform: uppercase;
+  width: 40px;
+  height: 40px;
+  line-height: 40px; /* Ensure the text is centered vertically */
 }
 
 section .set {

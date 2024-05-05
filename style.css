@@ -34,16 +34,16 @@
     justify-content: center;
     align-items: center; /* Align content vertically at the center */
     position: absolute;
-    top: 0; /* Set top position to 30px */
+    top: ; /* Set top position to 30px */
     left: 0;
     right: 0;
-    bottom: 300;
+    bottom: 50%;
     color: black;
     font-family: Fantasy;
 }
 .try {
   font-size: 20px;
-    min-height: 50vh;
+    min-height: 43vh;
     display: flex;
     justify-content: center;
     align-items: center;
